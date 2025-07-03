@@ -143,11 +143,15 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
         <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="64" height="64"/>
       </a>
     </td>
+    <td align="center" style="padding: 8px; border: none;">
+      <a href="https://developer.apple.com/swiftui/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/a6e0e700-0c8f-483e-abb9-8d1aafea34bd" alt="SwiftUI" width="64" height="64"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 ---
-
 ## 📊 GitHub Stats  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pbsvk&theme=radical&hide_border=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbsvk&layout=compact&theme=radical&hide_border=true)  
@@ -164,7 +168,7 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/pbsvk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="64" height="64"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1483px-X_icon_2.svg.png" alt="Twitter" width="64" height="64"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.hackerrank.com/profile/bsvkpadala" target="_blank">
