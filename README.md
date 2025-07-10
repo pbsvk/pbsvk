@@ -6,15 +6,25 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
 ## 💻 Tech Stack 
 
 <table style="border-collapse: collapse; border: none;">
+
+  <!-- Frontend -->
+  <tr>
+    <td colspan="7" align="left" style="padding: 8px; font-weight: bold; font-size: 18px;">Frontend</td>
+  </tr>
   <tr>
     <td align="center" style="padding: 8px; border: none;">
       <a href="https://swift.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #f97316);"/>
+        <img src="https://skillicons.dev/icons?i=swift" alt="Swift" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #f97316);" />
+      </a>
+    </td>
+    <td align="center" style="padding: 8px; border: none;">
+      <a href="https://developer.apple.com/swiftui/" target="_blank">
+        <img src="https://github.com/user-attachments/assets/a6e0e700-0c8f-483e-abb9-8d1aafea34bd" alt="SwiftUI" width="74" height="74"/>
       </a>
     </td>
     <td align="center" style="padding: 8px; border: none;">
       <a href="https://www.javascript.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #facc15);"/>
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #facc15);" />
       </a>
     </td>
     <td align="center" style="padding: 8px; border: none;">
@@ -24,17 +34,7 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
     </td>
     <td align="center" style="padding: 8px; border: none;">
       <a href="https://reactjs.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=react" alt="React" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #61dafb);"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 8px; border: none;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5" target="_blank">
-        <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="64" height="64"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 8px; border: none;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="64" height="64"/>
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #61dafb);" />
       </a>
     </td>
     <td align="center" style="padding: 8px; border: none;">
@@ -42,6 +42,11 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
         <img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="64" height="64"/>
       </a>
     </td>
+  </tr>
+
+  <!-- Backend -->
+  <tr>
+    <td colspan="7" align="left" style="padding: 8px; font-weight: bold; font-size: 18px;">Backend</td>
   </tr>
   <tr>
     <td align="center" style="padding: 8px; border: none;">
@@ -61,7 +66,7 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
     </td>
     <td align="center" style="padding: 8px; border: none;">
       <a href="https://www.python.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #3776ab);"/>
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #3776ab);" />
       </a>
     </td>
     <td align="center" style="padding: 8px; border: none;">
@@ -70,15 +75,32 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
       </a>
     </td>
     <td align="center" style="padding: 8px; border: none;">
-      <a href="https://isocpp.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="64" height="64"/>
+      <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=django" alt="Django" width="64" height="64"/>
+      </a>
+    </td>
+  </tr>
+
+  <!-- Databases -->
+  <tr>
+    <td colspan="7" align="left" style="padding: 8px; font-weight: bold; font-size: 18px;">Databases</td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 8px; border: none;">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="64" height="64"/>
       </a>
     </td>
     <td align="center" style="padding: 8px; border: none;">
-      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-        <img src="https://skillicons.dev/icons?i=c" alt="C" width="64" height="64"/>
+      <a href="https://www.sqlite.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="64" height="64"/>
       </a>
     </td>
+  </tr>
+
+  <!-- DevOps & Platforms -->
+  <tr>
+    <td colspan="7" align="left" style="padding: 8px; font-weight: bold; font-size: 18px;">DevOps & Platforms</td>
   </tr>
   <tr>
     <td align="center" style="padding: 8px; border: none;">
@@ -98,34 +120,24 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
     </td>
     <td align="center" style="padding: 8px; border: none;">
       <a href="https://firebase.google.com/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #ffca28);"/>
+        <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="64" height="64" loading="lazy" style="filter: drop-shadow(0 0 4px #ffca28);" />
       </a>
     </td>
     <td align="center" style="padding: 8px; border: none;">
-      <a href="https://azure.microsoft.com/en-us/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="64" height="64"/>
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="64" height="64"/>
       </a>
     </td>
-    <td align="center" style="padding: 8px; border: none;">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="64" height="64"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 8px; border: none;">
-      <a href="https://www.sqlite.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" width="64" height="64"/>
-      </a>
-    </td>
+  </tr>
+
+  <!-- ML & Data -->
+  <tr>
+    <td colspan="7" align="left" style="padding: 8px; font-weight: bold; font-size: 18px;">ML & Data</td>
   </tr>
   <tr>
     <td align="center" style="padding: 8px; border: none;">
       <a href="https://www.tensorflow.org/" target="_blank">
         <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="64" height="64"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 8px; border: none;">
-      <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-        <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB" width="64" height="64"/>
       </a>
     </td>
     <td align="center" style="padding: 8px; border: none;">
@@ -138,23 +150,27 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
         <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="64" height="64"/>
       </a>
     </td>
-    <td align="center" style="padding: 8px; border: none;">
-      <a href="https://opencv.org/" target="_blank">
-        <img src="https://skillicons.dev/icons?i=opencv" alt="OpenCV" width="64" height="64"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 8px; border: none;">
-      <a href="https://developer.apple.com/swiftui/" target="_blank">
-        <img src="https://github.com/user-attachments/assets/a6e0e700-0c8f-483e-abb9-8d1aafea34bd" alt="SwiftUI" width="64" height="64"/>
-      </a>
-    </td>
-    <td align="center" style="padding: 8px; border: none;">
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django" alt="Django" width="64" height="64"/>
-  </a>
-</td>
   </tr>
+
+  <!-- Languages & Tools -->
+  <tr>
+    <td colspan="7" align="left" style="padding: 8px; font-weight: bold; font-size: 18px;">Languages & Tools</td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 8px; border: none;">
+      <a href="https://isocpp.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="64" height="64"/>
+      </a>
+    </td>
+    <td align="center" style="padding: 8px; border: none;">
+      <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+        <img src="https://skillicons.dev/icons?i=c" alt="C" width="64" height="64"/>
+      </a>
+    </td>
+  </tr>
+
 </table>
+
 
 ---
 ## 📊 GitHub Stats  
