@@ -187,7 +187,3 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
 
 ---
 
-## 💡 Fun Fact  
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-⭐️ From [pbsvk](https://github.com/pbsvk)
