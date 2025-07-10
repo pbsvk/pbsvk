@@ -150,7 +150,7 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
     </td>
     <td align="center" style="padding: 8px; border: none;">
   <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="64" height="64"/>
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" width="64" height="64"/>
   </a>
 </td>
   </tr>
