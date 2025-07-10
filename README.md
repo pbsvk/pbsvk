@@ -166,24 +166,3 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
 ![GitHub Stars](https://img.shields.io/github/stars/pbsvk?affiliations=OWNER&style=social)
 ---
 
-## 📫 Contact Me  
-<p align="center">
-  <a href="https://linkedin.com/in/pbsvk" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="64" height="64"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/pbsvk" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/X_icon_2.svg/1483px-X_icon_2.svg.png" alt="Twitter" width="64" height="64"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/profile/bsvkpadala" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" alt="Hackerrank" width="64" height="64"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/vamsipbs/" target="_blank">
-    <img src="https://img.icons8.com/?size=100&id=wDGo581Ea5Nf&format=png" alt="LeetCode" width="64" height="64"/>
-  </a>
-</p>
-
----
-
