@@ -148,6 +148,11 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
         <img src="https://github.com/user-attachments/assets/a6e0e700-0c8f-483e-abb9-8d1aafea34bd" alt="SwiftUI" width="64" height="64"/>
       </a>
     </td>
+    <td align="center" style="padding: 8px; border: none;">
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="64" height="64"/>
+  </a>
+</td>
   </tr>
 </table>
 
