@@ -174,9 +174,6 @@ I'm a **Software Engineer** with expertise in **full-stack development**, **clou
 
 ---
 ## 📊 GitHub Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pbsvk&theme=radical&hide_border=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pbsvk&layout=compact&theme=radical&hide_border=true)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=pbsvk&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ![Visitors](https://komarev.com/ghpvc/?username=pbsvk&style=flat&color=brightgreen)
 ![GitHub followers](https://img.shields.io/github/followers/pbsvk?label=Follow&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/pbsvk?affiliations=OWNER&style=social)
